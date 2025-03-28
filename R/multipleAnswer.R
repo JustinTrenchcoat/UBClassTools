@@ -1,3 +1,11 @@
+#' Title
+#'
+#' @param num_choice number of choices you have in the question
+#' @param answer_hash the hash number of your right answer, it should be shown to you on the screen if you get it wrong at the first time.
+#'
+#' @returns a string indicating that function is complete.
+#' @export
+#'
 getPermutations <- function(num_choice, answer_hash) {
   rsf <- c()
   vec <- LETTERS[1:num_choice]
