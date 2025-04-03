@@ -16,6 +16,8 @@ knitr::opts_chunk$set(
 # UBClassTools
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/JustinTrenchcoat/UBClassTools/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/JustinTrenchcoat/UBClassTools/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/JustinTrenchcoat/UBClassTools/graph/badge.svg)](https://app.codecov.io/gh/JustinTrenchcoat/UBClassTools)
 <!-- badges: end -->
 
 The goal of UBClassTools is to ...

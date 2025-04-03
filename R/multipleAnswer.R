@@ -6,6 +6,13 @@
 #' @returns a string indicating that function is complete.
 #' @export
 #'
+#' @examples
+#' #example code
+#' getPermutations(6, "<test hash>")
+#'
+#' \dontrun{
+#' getPermutations(2048)
+#' }
 getPermutations <- function(num_choice, answer_hash) {
   rsf <- c()
   vec <- LETTERS[1:num_choice]

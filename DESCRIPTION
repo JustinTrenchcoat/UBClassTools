@@ -10,7 +10,7 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 Imports:
   digest
-URL: https://github.com/JustinTrenchcoat/UBClassTools
+URL: https://github.com/JustinTrenchcoat/UBClassTools, https://justintrenchcoat.github.io/UBClassTools/
 BugReports: https://github.com/JustinTrenchcoat/UBClassTools/issues
 Suggests: 
     testthat (>= 3.0.0)

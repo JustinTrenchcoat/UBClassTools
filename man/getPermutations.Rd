@@ -17,3 +17,11 @@ a string indicating that function is complete.
 \description{
 Title
 }
+\examples{
+#example code
+getPermutations(6, "<test hash>")
+
+\dontrun{
+getPermutations(2048)
+}
+}
